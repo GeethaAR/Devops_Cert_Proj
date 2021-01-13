@@ -40,4 +40,4 @@ def test_home_link(browser):
 
 # Test step 3 - Check About Us Link Present
 def test_about_link(browser):
-    assert browser.find_element_by_id("About Us")
+    assert browser.find_element_by_id("About Uss")
